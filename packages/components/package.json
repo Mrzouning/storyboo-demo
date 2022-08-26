@@ -1,6 +1,6 @@
 {
   "name": "@storybook/components",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.ts",
   "module": "index.ts",
@@ -13,7 +13,7 @@
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
-    "@storybook/hooks": "^1.0.3"
+    "@storybook/hooks": "^1.0.4"
   },
   "gitHead": "a56f097ccad0293fe42d2ede1fc407ae76f68a3b"
 }
