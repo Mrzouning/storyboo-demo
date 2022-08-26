@@ -1,3 +1,3 @@
-const hooks: number = 555;
+const hooks: number = 666;
 
 export default hooks;
