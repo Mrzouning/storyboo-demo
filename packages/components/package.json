@@ -14,5 +14,6 @@
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
     "@storybook/hooks": "^1.0.1"
-  }
+  },
+  "gitHead": "4acc4131440e3d2812f6a80a35727224758691e5"
 }

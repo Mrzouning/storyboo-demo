@@ -55,5 +55,8 @@
   },
   "msw": {
     "workerDirectory": "mock"
+  },
+  "repository": {
+    "url": "http://localhost:4873/"
   }
 }
