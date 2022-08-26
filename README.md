@@ -1,2 +1,2 @@
-# storyboo-demo
+# storybook-demo
 a about storybook-demo
